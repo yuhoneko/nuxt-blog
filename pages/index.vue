@@ -23,6 +23,7 @@
         >
           GitHub
         </a>
+        <nuxt-link to="articles/" class="button--grey"> ブログ一覧へ</nuxt-link>
       </div>
     </div>
   </div>
